@@ -9,10 +9,13 @@ Test with a virtual co-pilot.
 
 ## Download
 
-Get **`XTogether-Setup.exe`** from the [latest release](../../releases/latest). It installs the desktop
-app and the X-Plane 12 plugin; no administrator rights are needed. The app updates itself from this page.
+### [⬇ Download XTogether for Windows](https://github.com/jujeh1234/XTogether-Releases/releases/latest/download/XTogether-Setup.exe)
 
-Each release also contains `SHA256SUMS.txt` with the checksums of the installer and the uninstaller.
+This always downloads the newest installer, `XTogether-Setup.exe`. Run it: it installs the desktop app and the
+X-Plane 12 plugin, with no administrator rights needed. After that the app keeps itself up to date.
+
+The release pages list `SHA256SUMS.txt` with the installer's checksum. The "Source code" archives that GitHub adds
+to every release contain only this README: XTogether is closed source.
 
 ## Requirements
 
