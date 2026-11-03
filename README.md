@@ -19,7 +19,7 @@ every release contain only this README: XTogether is closed source.
 ## Requirements
 
 - Windows 10 or 11, 64-bit
-- X-Plane 12
+- X-Plane 12 on both PCs
 
 ## License
 
